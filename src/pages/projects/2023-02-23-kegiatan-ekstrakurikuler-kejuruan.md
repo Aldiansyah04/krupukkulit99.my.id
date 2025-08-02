@@ -1,18 +1,26 @@
 ---
 templateKey: project-page
-title: Kegiatan Ekstrakurikuler Kejuruan
+title: Kerupuk ukuran 5rb
 date: 2024-02-23T14:51:04.651Z
 featured: true
 featuredimage:
-  image: /img/kelas-industri.jpg
-  alt: Kegiatan Ekstrakurikuler Kejuruan
-location: Pasar Kemis, Tangerang
+  image: /img/img_20250801_090812_997.jpg
+  alt: kerupuk 5rb an
+location: Kp.sempur, RT.07/rw06, Kadu, Kabupaten Tangerang, Banten 15810
 ---
-SMK (Sekolah Menengah Kejuruan) biasanya menawarkan berbagai kegiatan ekstrakurikuler untuk membantu siswa mengembangkan bakat dan minat mereka di luar jam pelajaran. Beberapa kegiatan ekstrakurikuler yang umum ditawarkan oleh SMK antara lain:
+**Pabrik Kerupuk Kulit Sapi Asli 99** tidak hanya berfokus pada produksi camilan lezat berbahan dasar kulit sapi, tetapi juga aktif dalam berbagai kegiatan yang bertujuan meningkatkan kualitas produk, efisiensi kerja, serta pemberdayaan masyarakat sekitar.
 
-1. Kelompok Ilmiah Remaja (KIR) Kegiatan ekstrakurikuler ini bertujuan untuk memperkenalkan siswa pada metode penelitian dan eksperimen ilmiah. Siswa akan berpartisipasi dalam kegiatan penelitian, diskusi, dan presentasi, dan belajar untuk mengembangkan keterampilan penelitian dan analisis yang diperlukan untuk mengejar karir di bidang ilmu pengetahuan dan teknologi.
-2. Karya Ilmiah Remaja (KIR) Kegiatan ini bertujuan untuk membantu siswa mengembangkan keterampilan menulis dan presentasi. Siswa akan belajar menulis makalah akademik, melakukan penelitian, dan mempresentasikan hasil kerja mereka dalam seminar atau konferensi akademik.
-3. Klub Bahasa Inggris Kegiatan ini dirancang untuk membantu siswa memperbaiki kemampuan bahasa Inggris mereka melalui kegiatan seperti diskusi kelompok, presentasi, dan permainan bahasa. Ini dapat membantu siswa mempersiapkan diri untuk ujian bahasa Inggris seperti TOEFL atau IELTS, dan juga meningkatkan kemampuan berbicara dan menulis dalam bahasa Inggris.
-4. Klub Teater Kegiatan ini bertujuan untuk membantu siswa meningkatkan kemampuan berbicara di depan umum dan meningkatkan keterampilan akting mereka. Siswa akan belajar menulis skrip, mengarahkan pertunjukan, dan memainkan peran di atas panggung.
-5. Klub Musik Kegiatan ini dirancang untuk membantu siswa mengembangkan keterampilan musik mereka, baik dalam memainkan alat musik atau bernyanyi. Siswa akan belajar bermain instrumen, menyanyi dalam kelompok, dan mempersiapkan pertunjukan musik untuk acara sekolah dan di luar sekolah.
-6. Olahraga SMK juga menawarkan kegiatan olahraga, seperti sepak bola, basket, bulutangkis, voli, dan lain sebagainya. Ini bertujuan untuk membantu siswa menjaga kesehatan dan kebugaran, dan juga mempromosikan keterampilan kerja sama dan kepemimpinan.
+Berikut beberapa kegiatan utama yang rutin dilakukan di pabrik kami:
+
+1. **Produksi Harian Kerupuk Kulit Ukuran Rp5.000-an**\
+   Setiap hari, tim produksi kami mengolah kulit sapi pilihan menjadi kerupuk kulit siap goreng maupun yang sudah matang. Salah satu produk andalan kami adalah **kerupuk kulit kemasan Rp5.000-an** yang sangat digemari oleh masyarakat karena rasanya yang gurih, praktis, dan ekonomis.
+2. **Pelatihan Pengolahan Bahan Baku**\
+   Kami mengadakan pelatihan rutin bagi karyawan baru dan mitra binaan untuk mengajarkan cara pemrosesan kulit sapi mulai dari pencucian, perebusan, penjemuran, hingga pemotongan yang sesuai standar pabrik kami.
+3. **Pengemasan Kreatif dan Efisien**\
+   Kegiatan pengemasan dilakukan dengan sistem yang rapi dan efisien. Untuk kemasan Rp5.000-an, kami menggunakan plastik bening tebal dengan label brand “Asli 99”, dilengkapi informasi produk dan tanggal produksi.
+4. **Pembuatan Varian Rasa dan Uji Coba Produk Baru**\
+   Selain rasa original, kami juga mengembangkan varian seperti **pedas, balado, dan manis gurih** yang juga tersedia dalam kemasan kecil. Proses uji coba dilakukan secara internal untuk memastikan setiap rasa memenuhi standar kualitas.
+5. **Pemasaran Langsung dan Distribusi ke Warung-warung**\
+   Produk kerupuk ukuran kecil kami didistribusikan ke warung, kios jajanan, dan toko kelontong di berbagai daerah. Kami juga menerima pesanan untuk acara hajatan, pengajian, dan kegiatan komunitas.
+6. **Pemberdayaan Masyarakat Sekitar**\
+   Kami membuka kesempatan kerja untuk ibu rumah tangga dan pemuda setempat, khususnya dalam kegiatan penjemuran, pemotongan, dan pengemasan produk.
