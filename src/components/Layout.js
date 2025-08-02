@@ -16,7 +16,7 @@ const Layout = ({ children }) => {
     <div className="bg-white">
       <Helmet>
         <html lang="en" />
-        <title>{title} | Berpesantren</title>
+        <title>{title} | Renyah Gurih</title>
         <meta name="description" content={description} />
       </Helmet>
       <div className="flex flex-col h-screen justify-between">
