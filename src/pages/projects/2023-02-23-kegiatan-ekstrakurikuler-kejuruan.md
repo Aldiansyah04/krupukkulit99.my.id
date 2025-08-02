@@ -1,7 +1,7 @@
 ---
 templateKey: project-page
 title: Kerupuk ukuran 5rb
-date: 2024-02-23T14:51:04.651Z
+date: 2025-08-01T02:00:04.651Z
 featured: true
 featuredimage:
   image: /img/img_20250801_090812_997.jpg
