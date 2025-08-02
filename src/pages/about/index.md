@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: Tentang Kami
-heading: Tentang Perusahaan Kerupuk Kulit Sapi Asli
+heading: Tentang Perusahaan Kerupuk Kulit Sapi Asli 99
 subheading: Visi, Misi, Produk, dan Aktivitas Perusahaan
 team:
   - name: Kilo-an / sesuai harga pelanggan
@@ -11,7 +11,7 @@ team:
     title: 1rb, 2rb dan 5rb
     image: /img/img_20250801_090850_102.jpg
 ---
-### **Tentang Kami - Perusahaan Kerupuk Kulit Sapi**
+### **Tentang Kami - Perusahaan Kerupuk Kulit Sapi Asli 99**
 
 Perusahaan Kerupuk Kulit Sapi Asli 99 didirikan dengan semangat untuk melestarikan cita rasa tradisional Indonesia melalui produk camilan khas berbahan dasar kulit sapi pilihan. Sejak berdiri, kami terus berkembang dengan mengutamakan kualitas, kebersihan, dan kepuasan pelanggan.
 
@@ -19,13 +19,9 @@ Didukung oleh tenaga kerja lokal yang berpengalaman, kami menjalankan kegiatan p
 
 Motivasi kami adalah menjadi pelopor kerupuk kulit sapi yang tidak hanya lezat, tetapi juga sehat dan aman dikonsumsi, serta mampu bersaing di pasar nasional maupun internasional.
 
-
-
 ## **Visi**
 
 Menjadi produsen kerupuk kulit sapi terkemuka yang dikenal akan kualitas, keaslian rasa, dan kontribusinya dalam mengangkat produk lokal ke kancah global.
-
-
 
 ## **Misi**
 
