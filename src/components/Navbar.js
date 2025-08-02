@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import aretanet from "../img/logo-aretanet.png"
+import aretanet from "../img/logo-kerupuk.png"
 
 const NAVLINK_CLASSES =
   "my-1 py-3 px-3 text-center font-medium text-gray-600 border-b-4 border-white hover:border-yellow-300 md:mx-2 md:my-0"
@@ -54,8 +54,8 @@ const Navbar = ({ className }) => {
         <div className="flex items-center justify-between py-2">
           <Link className="flex items-center gap-1" to="/">
             <StaticImage
-              src="../img/logo.png"
-              alt="SMK Daarussaadah Logo"
+              src="../img/logo-kerupuk.png"
+              alt="Pabrik Kerupuk Kulit Mamat"
               className="w-8 h-8 sm:w-10 sm:h-10"
               layout="constrained"
               width={45}
@@ -65,8 +65,8 @@ const Navbar = ({ className }) => {
               placeholder="blurred"
             />
             <div className="text-xl font-bold tracking-wide lg:text-2xl">
-              <span className="text-gray-800 font-semibold">SMK</span>
-              <span className="text-green-700">Daarussaadah</span>
+              <span className="text-gray-800 font-semibold">Kerupuk</span>
+              <span className="text-red-700">Kulit Sapi</span>
             </div>
           </Link>
 
@@ -109,7 +109,7 @@ const Navbar = ({ className }) => {
                 setMenuOpen(false)
               }}
             >
-              Kegiatan
+              Produk
             </PartialNavLink>
             <ExactNavLink
               to="/about"
@@ -128,13 +128,13 @@ const Navbar = ({ className }) => {
               Kontak
             </ExactNavLink>
             <a
-              href="https://www.aretanet.com"
+              href="https://www.cvaldi.my.id"
               className="py-4 md:py-2 md:pl-4"
               rel="noreferrer"
               target="_blank"
             >
               <span className="icon">
-                <img src={aretanet} alt="Aretanet" width={40} height={40} />
+                <img src={aretanet} alt="pabrikkerupukkulitmamat" width={40} height={40} />
               </span>
               {/*  <svg
                 xmlns="http://www.w3.org/2000/svg"
