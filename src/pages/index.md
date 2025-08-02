@@ -1,17 +1,18 @@
 ---
 templateKey: index-page
-title: Official Website SMK Daarussa'adah
-image: /img/tasakuran.jpg
-heading: SMK Daarussa'adah Tangerang
-subheading: Berkarakter, Berprestasi dan Berpesantren
+title: Pabrik Kerupuk Kulit Sapi Asli
+image: /img/img_20250801_090850_102.jpg
+heading: Pabrik Kerupuk Kulit Asli
+subheading: Gurih, Renyah dan Tanpa Bahan Pengawet
 about:
   heading: Siapa Kami
-  description: Kami adalah lembaga pendidikan vokasi SMK Daarussa'adah yang
-    berkomitmen mengambil tanggung jawab dalam mencetak SDM yang mumpuni dapat
-    bersaing di dunia industri dan bisnis.
+  description: Kami adalah perusahaan kerupuk kulit sapi yang berkomitmen untuk
+    menghadirkan produk berkualitas tinggi dengan cita rasa khas. Dengan
+    pengalaman dan dedikasi, kami terus berinovasi dalam proses produksi untuk
+    memenuhi kebutuhan pasar serta menjaga kepuasan pelanggan.
   image:
-    image: /img/penyerahan-piagam.jpg
-    alt: Para siswa SMK Daarussa'adah kegiatan kelas industri
+    image: /img/img_20250801_091147_961.jpg
+    alt: Pabrik Kerupuk Kulit Mamat
   button:
     url: /about
     label: Mengetahui lebih lanjut
