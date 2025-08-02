@@ -1,37 +1,49 @@
 ---
 templateKey: about-page
 title: Tentang Kami
-heading: Tentang SMK Daarussaadah Kota Tangerang
-subheading: Visi Misi, Prestasi, Kegiatan dan Jurusan
+heading: Tentang Perusahaan Kerupuk Kulit Sapi Asli
+subheading: Visi, Misi, Produk, dan Aktivitas Perusahaan
 team:
-  - name: Prestasi Siswa
-    image: /img/img_2393.jpg
-    title: SMK Daarussaadah Kota Tangerang
-  - name: Kegiatan Siswa
-    title: SMK Daarussaadah Kota Tangerang
-    image: /img/img_4974.jpg
+  - name: Kilo-an / sesuai harga pelanggan
+    image: /img/img_20250801_090647_984.jpg
+    title: Pesanan Eceran
+  - name: Per-Pak
+    title: 1rb, 2rb dan 5rb
+    image: /img/img_20250801_090850_102.jpg
 ---
-### **SMK Daarussaadah Berpesantren**
+### **Tentang Kami - Perusahaan Kerupuk Kulit Sapi**
 
-i﻿si tentang SMK Daarussaadah, mulai dari berdirinya, kegiatannya motivasinya dll.
+Perusahaan Kerupuk Kulit Sapi Asli 99 didirikan dengan semangat untuk melestarikan cita rasa tradisional Indonesia melalui produk camilan khas berbahan dasar kulit sapi pilihan. Sejak berdiri, kami terus berkembang dengan mengutamakan kualitas, kebersihan, dan kepuasan pelanggan.
+
+Didukung oleh tenaga kerja lokal yang berpengalaman, kami menjalankan kegiatan produksi secara higienis, mulai dari pengolahan bahan baku, proses penjemuran, hingga pengemasan produk siap edar. Kami juga aktif mengikuti pelatihan kewirausahaan dan pameran UMKM untuk terus meningkatkan mutu dan memperluas jaringan pemasaran.
+
+Motivasi kami adalah menjadi pelopor kerupuk kulit sapi yang tidak hanya lezat, tetapi juga sehat dan aman dikonsumsi, serta mampu bersaing di pasar nasional maupun internasional.
+
+
 
 ## **Visi**
 
-Isi dengan visi dari SMK Daarussaadah
+Menjadi produsen kerupuk kulit sapi terkemuka yang dikenal akan kualitas, keaslian rasa, dan kontribusinya dalam mengangkat produk lokal ke kancah global.
+
+
 
 ## **Misi**
 
-1. i﻿si dengan misi-misi
+1. Menghasilkan kerupuk kulit sapi yang renyah, gurih, dan berkualitas tinggi.
+2. Menjaga proses produksi yang higienis dan sesuai standar keamanan pangan.
+3. Memberdayakan masyarakat sekitar melalui pelatihan dan pembukaan lapangan kerja.
+4. Terus berinovasi dalam pengemasan dan varian rasa untuk memenuhi selera pasar.
+5. Membangun jaringan distribusi yang luas dan terpercaya.
 
-![Tasakuran SMK Daarussaadah](/img/img_2242.jpg "Kegiatan Tasakuran SMK Daarussaadah")
+![kerupuk kulit sapi](/img/img_20250801_091026_256.jpg "Peroduk yang ada di Kerupuk Kulit Sapi Asli 99")
 
-### Jurusun Teknik Komputer Jaringan (TKJ)
+### **Produk Unggulan: Kerupuk Kulit Sapi Original dan Varian Rasa**
 
-Jurusan Teknik Komputer dan Jaringan (TKJ) adalah salah satu program keahlian yang ada di sekolah menengah kejuruan (SMK) yang mempelajari tentang teknologi informasi dan komunikasi terkait dengan penggunaan dan pemeliharaan perangkat keras dan perangkat lunak, serta jaringan komputer.
+Produk kami dibuat dari kulit sapi berkualitas yang diproses secara alami tanpa bahan pengawet berbahaya. Kami menawarkan beberapa varian seperti:
 
-Siswa yang mengambil program TKJ akan mempelajari materi seperti pemrograman komputer, pengoperasian sistem komputer, desain dan pengembangan website, administrasi jaringan komputer, keamanan jaringan, dan pengujian perangkat lunak. Selain itu, siswa juga akan mendapatkan praktikum untuk mengasah keterampilan dan pengalaman dalam bidang teknologi informasi dan komunikasi.
+* **Kerupuk Kulit Sapi Original**
+* **Kerupuk Kulit Pedas Gurih**
+* **Kerupuk Kulit Rasa Balado**
+* **Kemasan Ekonomis & Premium**
 
-Setelah lulus dari program TKJ, siswa akan memiliki keterampilan yang dibutuhkan untuk bekerja di berbagai industri yang berhubungan dengan teknologi informasi dan komunikasi, seperti:
-
-1. Perusahaan teknologi, penyedia layanan internet, dan perusahaan telekomunikasi. 
-2. Selain itu, siswa juga dapat melanjutkan pendidikan ke jenjang yang lebih tinggi, seperti program sarjana di bidang teknik informatika atau teknologi informasi.
+Produk kami cocok untuk dijadikan camilan harian maupun oleh-oleh khas daerah.
