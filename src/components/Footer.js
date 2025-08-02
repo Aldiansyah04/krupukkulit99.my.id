@@ -11,8 +11,8 @@ const Footer = () => {
             <div className="px-4 sm:px-6 lg:px-8">
               <Link className="flex items-center gap-1" to="/">
                 <StaticImage
-                  src="../img/logo.png"
-                  alt="Logo SMK Daarussaadah"
+                  src="../img/logo-kerupuk.png"
+                  alt="Logo Kerupuk Kulit Sapi Asli 99"
                   layout="fixed"
                   width={40}
                   height={40}
@@ -20,14 +20,15 @@ const Footer = () => {
                   placeholder="blurred"
                 />
                 <div className="text-xl font-bold tracking-wide">
-                  <span className="text-gray-800 font-semibold">SMK</span>
-                  <span className="text-green-700">Daarussaadah</span>
+                  <span className="text-gray-800 font-semibold">Kerupuk</span>
+                  <span className="text-red-700">Kulit Sapi</span>
                 </div>
               </Link>
 
               <p className="max-w-md mt-2 text-gray-600 dark:text-gray-400">
-                Konsep belajar SMK Daarussaadah Praktis dan Berpesantren
-                Menjadikan Siswa/i cepat memahami dalam setiap pembelajaran Ilmu, Teknologi dan Islam.
+                Mewujudkan produk kerupuk kulit sapi yang mudah dinikmati, diproses secara higienis,
+                dan memiliki cita rasa khas yang autentik. Setiap langkah produksi kami dilakukan dengan
+                efisiensi tinggi dan tetap menjaga nilai tradisi serta kehalalan produk.
               </p>
             </div>
           </div>
@@ -42,7 +43,7 @@ const Footer = () => {
                   to="/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                 >
-                  SMK Daarussaadah
+                  Kerupuk Kulit Sapi Asli 99
                 </Link>
                 <Link
                   to="/"
@@ -87,23 +88,23 @@ const Footer = () => {
                   Kerjasama
                 </h3>
                 <a
-                  href="https://www.aretanet.com/"
+                  href="https://www.github.com/Aldiansyah04/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  PT. Aretanet Indonesia
+                  Github
                 </a>
                 <a
-                  href="https://www.aretacollege.com/"
+                  href="https://www.cvaldi.my.id/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
                 >
-                  Areta Informatics College
+                  Aldiansyah
                 </a>
                 <a
-                  href="https://facebook.com/smk-daarussaadah"
+                  href="https://www.instagram.com/aldiaretanet/"
                   className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline"
                   rel="noreferrer"
                   target="_blank"
@@ -117,10 +118,10 @@ const Footer = () => {
                   Kontak
                 </h3>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  +62 85300000
+                  +62 81293455225
                 </span>
                 <span className="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">
-                  info@smk-daarussaadah.sch.id
+                  aldiaretanet@gmail.com
                 </span>
               </div>
             </div>
@@ -131,7 +132,7 @@ const Footer = () => {
 
         <div>
           <p className="text-center text-gray-800 dark:text-white">
-            © SMK Daarussaadah 2025 - All rights reserved
+            © Aldiansyah04 2025 - All rights reserved
           </p>
         </div>
       </div>
